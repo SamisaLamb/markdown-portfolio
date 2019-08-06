@@ -8,6 +8,7 @@ The **Linked-In Learning** platform has been my gateway into web development. I 
 - User Experience for Web Design
 - UX Foundations: Accessibility
 - Responsive Layout
+- Learning Git and GitHub
 
 
 
