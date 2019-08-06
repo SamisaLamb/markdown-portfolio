@@ -1,6 +1,6 @@
 The **Linked-In Learning** platform has been my gateway into web development. I have completed the *Learning Path: Become A Front-End Web Developer*
 
-# Relevant certificates of completion:
+# Relevant course certificates of completion:
 - Programming Foundations: Fundamentals
 - HTML Essential Training
 - CSS Essential Training 1, 2, & 3
@@ -11,4 +11,4 @@ The **Linked-In Learning** platform has been my gateway into web development. I 
 
 
 
-Outside of web development I really enjoy the disciplines of **mathematics** and **art**, in addition to **training my body**, **socializing** and brewing **artisanal coffee**.
+Outside of web development I really enjoy the disciplines of **mathematics** and **art**, in addition to **training** my body, **socializing** and brewing **artisanal coffee**.
