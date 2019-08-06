@@ -1,2 +1,14 @@
-I have intermediate proficiency in *HTML, CSS* & *Javascript*. The **Linked-In Learning** platform has been my gateway into web development. I really enjoy the disciplines of mathematics and art.  
-Outside of web development, I like to train my body, socialize and brew _artisanal_ coffee.
+The **Linked-In Learning** platform has been my gateway into web development. I have completed the *Learning Path: Become A Front-End Web Developer*
+
+# Relevant certificates of completion:
+- Programming Foundations: Fundamentals
+- HTML Essential Training
+- CSS Essential Training 1, 2, & 3
+- Javascript Essential Training
+- User Experience for Web Design
+- UX Foundations: Accessibility
+- Responsive Layout
+
+
+
+Outside of web development I really enjoy the disciplines of **mathematics** and **art**, in addition to **training my body**, **socializing** and brewing **artisanal coffee**.
