@@ -1,1 +1,1 @@
-![github profile page](https://github.com/SamisaLamb)
+[GitHub Profile Page](https://github.com/SamisaLamb)
